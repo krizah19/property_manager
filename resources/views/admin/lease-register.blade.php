@@ -13,7 +13,7 @@ Leases | Green City RMS
 <style>
     @media screen and (min-width: 676px) {
         .modal-dialog {
-          max-width: 50%; /* New width for default modal */
+          max-width: 50%; /* The new width for default modal */
         }
     }
 </style>
