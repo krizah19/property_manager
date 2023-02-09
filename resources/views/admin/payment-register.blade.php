@@ -130,13 +130,13 @@
                         <td>{{ $data->payment_amount }}</td>
                         
                         <td>
-                            <a href="{{ url('payment-edit/'.$data->id) }}" class="btn btn-success">EDIT</a>
+                            <a href="{{ url('payment-edit/'.$data->id) }}" class="btn btn-success">Edit</a>
                         </td>
                         <td>
                         <form action="{{ url('payment-delete/'.$data->id) }}" method="POST">
                               {{ csrf_field() }}
                               {{ method_field('DELETE') }}
-                              <button type="submit" class="btn btn-danger">DELETE</button>
+                              <button type="submit" class="btn btn-danger">Delete</button>
                           </form>
                         </td>
                       </tr>
