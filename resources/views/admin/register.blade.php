@@ -29,8 +29,8 @@
                       <th>Phone</th>
                       <th>Email</th>
                       <th>User Role</th>
-                      <th>EDIT</th>
-                      <th>DELETE</th>
+                      <th>Edit</th>
+                      <th>Delete</th>
                     </thead>
                     <tbody>
                         @foreach ($users as $row)
