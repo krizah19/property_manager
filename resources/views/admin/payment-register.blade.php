@@ -115,8 +115,8 @@
                       <th class="w-10p">Client</th>
                       <th class="w-10p">Payment for</th>
                       <th class="w-10p">Amount paid</th>
-                      <th class="w-10p">EDIT</th>
-                      <th class="w-10p">DELETE</th>
+                      <th class="w-10p">Edit</th>
+                      <th class="w-10p">Delete</th>
                     </thead>
                     <tbody>
                       @foreach ($payments as $data)
