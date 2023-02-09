@@ -139,7 +139,7 @@
                       <tr>
                         
                         <td>{{ $data->property_name }}</td>
-                        <td> <img src="{{ asset('uploads/properties/' .$data->photo) }}" width="300px;" height="70px;" alt="photo;"> </td>
+                        <td> <img src="{{ asset('uploads/properties/' .$data->photo) }}" width="200px;" height="70px;" alt="photo;"> </td>
                         <td>{{ $data->house->name }}</td>
                         <td>{{ $data->number_of_units }}</td>
                         <td>{{ $data->landlord->name }}</td>
