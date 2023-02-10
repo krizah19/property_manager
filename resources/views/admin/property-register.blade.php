@@ -131,8 +131,8 @@
                       <th class="w-10p">Country</th>
                       <th class="w-10p">City</th>
                       <th class="w-10p">Address</th>
-                      <th class="w-10p">EDIT</th>
-                      <th class="w-10p">DELETE</th>
+                      <th class="w-10p">Edit</th>
+                      <th class="w-10p">Delete</th>
                     </thead>
                     <tbody>
                       @foreach ($properties as $data)
