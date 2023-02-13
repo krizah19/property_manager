@@ -49,7 +49,7 @@
               <lable>Cover photo</label>
               <div class="input-group">
                 <div class ="custom-file">
-                <label class="custom-file-label">Choose file</label>
+                <label class="custom-file-label">Select file</label>
                 <input type="file" name="photo" class="custom-file-input">
                 </div>
                </div>
