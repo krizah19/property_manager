@@ -62,7 +62,7 @@
                         </select>
               </div>
               <div class="form-group">
-                <label for="recipient-name" class="col-form-label">Area (sq. feet):</label>
+                <label for="recipient-name" class="col-form-label">Area (sq. ft):</label>
                 <input type="text" name="size" class="form-control" id="recipient-name">
               </div>
               <div class="form-group">
